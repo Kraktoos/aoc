@@ -6,6 +6,11 @@ This repository contains my solutions to the problems I've solved from Advent of
 
 ## Solved Problems
 
+### 2024
+| Day | Name | Stars |
+| - | - | - |
+| 01 | [Historian Hysteria](https://adventofcode.com/2024/day/1) | ⭐⭐ |
+
 ### 2023
 | Day | Name | Stars |
 | - | - | - |
@@ -18,19 +23,3 @@ This repository contains my solutions to the problems I've solved from Advent of
 | 07 | [Camel Cards](https://adventofcode.com/2023/day/7) | ⭐⭐ |
 | 08 | [Haunted Wasteland](https://adventofcode.com/2023/day/8) | ⭐⭐ |
 | 09 | [Mirage Maintenance](https://adventofcode.com/2023/day/9) | ⭐⭐ |
-| 10 | [Pipe Maze](https://adventofcode.com/2023/day/10) |  |
-| 11 | [Cosmic Expansion](https://adventofcode.com/2023/day/11) |  |
-| 12 | [Hot Springs](https://adventofcode.com/2023/day/12) |  |
-| 13 | [Point of Incidence](https://adventofcode.com/2023/day/13) |  |
-| 14 |  |  |
-| 15 |  |  |
-| 16 |  |  |
-| 17 |  |  |
-| 18 |  |  |
-| 19 |  |  |
-| 20 |  |  |
-| 21 |  |  |
-| 22 |  |  |
-| 23 |  |  |
-| 24 |  |  |
-| 25 |  |  |
