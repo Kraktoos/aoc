@@ -10,6 +10,7 @@ This repository contains my solutions to the problems I've solved from Advent of
 | Day | Name | Stars |
 | - | - | - |
 | 01 | [Historian Hysteria](https://adventofcode.com/2024/day/1) | ⭐⭐ |
+| 02 | [Red-Nosed Reports](https://adventofcode.com/2024/day/2) | ⭐⭐ |
 
 ### 2023
 | Day | Name | Stars |
