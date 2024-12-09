@@ -16,7 +16,6 @@ for i in range(len(blocks) - 1, -1, -1):
   if type(blocks[i]) == list:
     for j in range(0, i):
       if type(blocks[j]) == int and blocks[j] >= len(blocks[i]):
-        # block = blocks.pop(i)
         block = blocks[i].copy()
         blocks[i] = len(blocks[i])
         blocks[j] -= len(block)
