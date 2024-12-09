@@ -17,6 +17,7 @@ This repository contains my solutions to the problems I've solved from Advent of
 | 06 | [Guard Gallivant](https://adventofcode.com/2024/day/6) | ⭐⭐ |
 | 07 | [Bridge Repair](https://adventofcode.com/2024/day/7) | ⭐⭐ |
 | 08 | [Resonant Collinearity](https://adventofcode.com/2024/day/8) | ⭐⭐ |
+| 09 | [Disk Fragmenter](https://adventofcode.com/2024/day/9) | ⭐⭐ |
 
 ### 2023
 | Day | Name | Stars |
