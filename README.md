@@ -18,8 +18,9 @@ This repository contains my solutions to the problems I've solved from Advent of
 | 07 | [Bridge Repair](https://adventofcode.com/2024/day/7) | ⭐⭐ |
 | 08 | [Resonant Collinearity](https://adventofcode.com/2024/day/8) | ⭐⭐ |
 | 09 | [Disk Fragmenter](https://adventofcode.com/2024/day/9) | ⭐⭐ |
-| 10 | [Plutonian Pebbles](https://adventofcode.com/2024/day/10) | ⭐⭐ |
-| 11 | [Garden Groups](https://adventofcode.com/2024/day/11) | ⭐⭐ |
+| 10 | [Hoof It](https://adventofcode.com/2024/day/10) | ⭐⭐ |
+| 11 | [Plutonian Pebbles](https://adventofcode.com/2024/day/11) | ⭐⭐ |
+| 12 | [Garden Groups](https://adventofcode.com/2024/day/12) | ⭐ |
 
 ### 2023
 | Day | Name | Stars |
