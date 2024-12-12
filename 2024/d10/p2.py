@@ -17,4 +17,5 @@ for i in range(len(matrix)):
   for j in range(len(matrix[0])):
     if matrix[i][j] == 0:
       total += qtd_caminhos_ate_9(matrix, 0, i, j)
+
 print(total)
