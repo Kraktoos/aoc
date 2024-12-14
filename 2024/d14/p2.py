@@ -1,5 +1,4 @@
 import re
-from math import prod
 
 robots = open("input.txt", "r").read().splitlines()
 
